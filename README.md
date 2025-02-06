@@ -44,8 +44,11 @@ PINECONE_API_KEY=your_pinecone_key
 VERCEL_BLOB_READ_WRITE_TOKEN=vercel_blob_key
 
 
-# Functionalities Yet to Be Worked On
-Implementing a payment system for paid and non-paid users.  
+# Functionalities Yet to Be Worked On  
+
+Implement limited functionality for non-paid users
+
+Implementing a payment system .  
 
 Deleting uploaded files by users.
 
