@@ -37,7 +37,10 @@ yarn-error.log*
 .vercel
 # Ignore vercel_blob.ts
 vercel_blob.ts
+service_key.json
+firebase.ts
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+service_key.json
